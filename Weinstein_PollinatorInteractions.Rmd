@@ -1,0 +1,23 @@
+---
+title: "Weinstein_PollinatorInteractions"
+author: "Sarah Weinstein"
+date: "2024-11-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+The Problem that me and my partner have decided to look into is the gap in 
+knowledge associated with plant composition in forests and 
+meadows and the relationship that has to pollinator density in these 
+specific areas. We also intend to look into how over management of 
+forests can actually lead to pollinator decline. With this gap we are 
+unable to understand the extent improper management and invasive species
+have on the density of pollinators in a given area. One study from 2009 
+stated that “the impact of non-native invasive plants on biodiversity has been well described, in terms of the structure of native plant communities, little is known on how they might influence other species, including those that play critical functional roles, such as pollinators” (Mciver et al, 2009). This is where the problem lies, we don’t know the
+broader importance of pollinator plant interactions within a given
+ecosystem and how disturbances to said ecosystem, such as the introduction of nonnative plants, over management, and agricultural plots being planted. So, our goal is to take a deeper look at these interactions and map out the commonalities that are found throughout our data sets.There are quite a few  studies who have addressed the different issueswe intend to look at, much of the research was done through
+
