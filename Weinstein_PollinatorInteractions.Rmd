@@ -20,4 +20,25 @@ have on the density of pollinators in a given area. One study from 2009
 stated that “the impact of non-native invasive plants on biodiversity has been well described, in terms of the structure of native plant communities, little is known on how they might influence other species, including those that play critical functional roles, such as pollinators” (Mciver et al, 2009). This is where the problem lies, we don’t know the broader importance of pollinator plant interactions within a given
 ecosystem and how disturbances to said ecosystem, such as the introduction of nonnative plants, over management, and agricultural plots being planted. So, our goal is to take a deeper look at these interactions and map out the commonalities that are found throughout our data sets.There are quite a few  studies who have addressed the different issues we intend to look at, much of the research was done through
 
-Many different studies have been done that address the different aspects of what we intend to look at in our project, the main sources of additional data we have collect comes from a long term study done at the Andrews Experimental Forest (Pfeiffer, 2021). Though many of these studies were conducted through Oregon State University in collaboration with their forestry and soil science departments.This one is where much of the data we are cross referencing with the OBA data is coming from. Other researchers have looked at the effects that pollinators have on invasive plants and how they can actually help spread them because of the plant- pollinatior interacting.It also shows what would happen if the pollinators were removed completely from the equations. (Mciver, et al. 2009). We also have background information to help with the simulation in regards to the introduction of pollinator to an agricultural setting and how the additon of crops can increase the population of bees. (Rao et al. 2009) this 
+Many different studies have been done that address the different aspects of what we intend to look at in our project, the main sources of additional data we have collect comes from a long term study done at the Andrews Experimental Forest (Pfeiffer, 2021). Though many of these studies were conducted through Oregon State University in collaboration with their forestry and soil science departments.This one is where much of the data we are cross referencing with the OBA data is coming from. Other researchers have looked at the effects that pollinators have on invasive plants and how they can actually help spread them because of the plant- pollinatior interacting.It also shows what would happen if the pollinators were removed completely from the equations. (Mciver, et al. 2009). We also have background information to help with the simulation in regards to the introduction of pollinator to an agricultural setting and how the additon of crops can increase the population of bees. (Rao et al. 2009)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The additional data that me and my partner will be using comes from a study that was done from June 2011- July 2021 at the H.J Andrews Experimental Forest. This study looked at plant-pollinator interactions across 18 Medows in the Willamette National Forest and 12 Medows in the Andrews Experimental Forest. There are 2 CSV files that were published with this study one that has plant pollinator interactions and a plant survey. The data was collected by individual observers as it was a long term observations study, but provided by the Andrew Forest website we do have the metrics that were used to count out the flowering plants, a taxonomic hierarchy that can be converted to a CSV file, we will have to narrow down a lot of the data in order to isolate just the bees as this study looked at many different pollinators. We also have a study site map that we can combine with OBA data that is from within the same areas as the Andrews Experimental Forest.  The study itself is called “Plant Pollinator Data At H.J Andrews Experimental Forest, 2011 to 2021”. This website also includes all of the metadata needed in order to read the columns and rows present. Included on the website is multiple publications that used data from this survey. 
+https://andlter.forestry.oregonstate.edu/data/abstract.aspx?dbcode=SA026 
