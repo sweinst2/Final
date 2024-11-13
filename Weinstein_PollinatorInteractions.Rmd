@@ -9,6 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+-Literature Review
 
 The Problem that me and my partner have decided to look into is the gap in  
 knowledge associated with plant composition in forests and 
@@ -26,14 +27,11 @@ The main purpose of our study is to examine put outside factors such as the intr
 
 I predict that the introduction of certain non native plants in overly managed forest will lead to a greater polinator density within the effected area. I predict that by crossing referencing the data sets we have found with that from the OBA we will be able to determine which plants bees visit most often. I predict that this new data will be useful in finding plants that can be planted in either urban or agricultural settings to increase the population density of native pollinators.
 
-
-
-
-
-
-
-
-
+- Dataset Id
 
 The additional data that me and my partner will be using comes from a study that was done from June 2011- July 2021 at the H.J Andrews Experimental Forest. This study looked at plant-pollinator interactions across 18 Medows in the Willamette National Forest and 12 Medows in the Andrews Experimental Forest. There are 2 CSV files that were published with this study one that has plant pollinator interactions and a plant survey. The data was collected by individual observers as it was a long term observations study, but provided by the Andrew Forest website we do have the metrics that were used to count out the flowering plants, a taxonomic hierarchy that can be converted to a CSV file, we will have to narrow down a lot of the data in order to isolate just the bees as this study looked at many different pollinators. We also have a study site map that we can combine with OBA data that is from within the same areas as the Andrews Experimental Forest.  The study itself is called “Plant Pollinator Data At H.J Andrews Experimental Forest, 2011 to 2021”. This website also includes all of the metadata needed in order to read the columns and rows present. Included on the website is multiple publications that used data from this survey. 
 https://andlter.forestry.oregonstate.edu/data/abstract.aspx?dbcode=SA026 
+
+- Partner Constitution
+
+We me multiple times to discuss workflow plan together, Lucas wrote out the workflow and did the annotated bibliography. I wrote out the Literature review and dataset Identification. I also found our main data source outside of the OBA so that he can use it to build our simulation. 
