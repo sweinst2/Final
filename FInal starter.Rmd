@@ -1,0 +1,33 @@
+---
+title: "Final Project"
+author: "Sarah Weinstein"
+date: "2024-11-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+library(ggplot2)
+library(dplyr, warn.conflicts = FALSE)
+library(readr)
+library(tidyr)
+```
+
+``` {r}
+OBA_Data <- read.csv("C:/Users/sarah/OneDrive/Desktop/Final/OBA_2018-2023_combined_dataset_working.csv")
+
+print(OBA_Data)
+
+HJA_Data_plant <- read.csv("C:/Users/sarah/OneDrive/Desktop/Final/SA02602_v5.csv")
+ print(HJA_Data_plant)
+ 
+ HJA_Data_Bee <- read.csv("C:/Users/sarah/OneDrive/Desktop/Final/SA02601_v6.csv")
+
+print(HJA_Data_Bee)
+```
+
+
+``` {r}
+
+combined_df <- as.data.frame("")
+
+```
